@@ -5,7 +5,8 @@
 
 
 ```r
-echo = TRUE  # Always make code visible
+# Set codes to be always visible
+echo = TRUE 
 ```
 
 
